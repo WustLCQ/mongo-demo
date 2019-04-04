@@ -1,29 +1,18 @@
 # mongo-demo
+使用vue+NodeJS+MongoDB的demo
 
-## Project setup
+## Quick Start
+
+* 安装MongoDB
+
+* 启动服务端程序
+
 ```
-npm install
+npm run server
 ```
 
-### Compiles and hot-reloads for development
+* 启动前端程序
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
